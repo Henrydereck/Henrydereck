@@ -1,6 +1,7 @@
-# 👋 Olá! Eu sou Henry
-
-# ✨ Welcome to my profile! ✨
+# Olá! Eu sou o Henry
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print%28%22Welcome+to+my+github!%22%29)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,19 +34,8 @@
 ## 🛠️ Meu conjunto de tecnologia
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
+[![My Skills](https://skillicons.dev/icons?i=css,html,python,c,js,git,github&theme=dark)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
-
-</div>
 
 ---
 
