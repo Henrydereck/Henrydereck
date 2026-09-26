@@ -20,8 +20,6 @@
 
 ## 🌎 Onde me encontrar
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-Henrydereck-181717?style=for-the-badge&logo=github)](https://github.com/Henrydereck)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@7henrrysilva-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7henrysilva_)
@@ -34,7 +32,6 @@
 
 ## 🛠️ Meu conjunto de tecnologia
 
-<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
 
@@ -52,45 +49,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dark"/>
-
-</div>
-
----
-
-## 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark"/>
-
-</div>
-
----
-
-## 🐍 Minha atividade
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📈 Gráfico de contribuições
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark)
-
-</div>
 
 ---
 
