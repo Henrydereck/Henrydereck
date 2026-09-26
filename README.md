@@ -19,23 +19,21 @@
 
 ---
 
-## 🌎 Onde me encontrar
+## Connect with me!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Henrydereck-181717?style=for-the-badge&logo=github)](https://github.com/Henrydereck)
+[![GitHub](https://img.shields.io/badge/GitHub-Henrydereck-181717?style=for-the-badge&logo=github)](https://github.com/Henrydereck)[![LinkedIn](https://img.shields.io/badge/LinkedIn-HenrySilva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrydesilva)[![Instagram](https://img.shields.io/badge/Instagram-@7henrysilva_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7henrysilva_)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@7henrysilva_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7henrysilva_)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HenrySilva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrydesilva)
+
+
 
 </div>
 
 ---
 
-## 🛠️ Meu conjunto de tecnologia
-
+## My Stack
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,python,c,js,git,github&theme=dark)](https://skillicons.dev)
-
 
 ---
 
