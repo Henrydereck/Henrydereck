@@ -40,11 +40,3 @@
 ---
 
 <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-
-### 🚀 Sempre aprendendo, criando e compartilhando conhecimento!
-
-</div>
