@@ -26,7 +26,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-@7henrrysilva-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7henrysilva_)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henry Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrydesilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HenrySilva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrydesilva)
 
 </div>
 
