@@ -10,7 +10,7 @@
 ## 🧠 O que eu faço
 
 - 💻 Desenvolvimento de Sistemas
-- ☕ Desenvolvimento em Java
+- ☕ Desenvolvimento em C
 - 🐍 Desenvolvimento em Python
 - 🌐 Desenvolvimento Web
 - 🚀 Projetos Pessoais
