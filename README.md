@@ -23,7 +23,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Henrydereck-181717?style=for-the-badge&logo=github)](https://github.com/Henrydereck)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@7henrrysilva-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7henrysilva_)
+[![Instagram](https://img.shields.io/badge/Instagram-@7henrysilva_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7henrysilva_)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HenrySilva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrydesilva)
 
