@@ -1,6 +1,4 @@
-# 👋 Olá! Eu sou SEU NOME
-
-<div align="center">
+# 👋 Olá! Eu sou Henry
 
 # ✨ Welcome to my profile! ✨
 
@@ -24,11 +22,11 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Henrydereck-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Henrydereck-181717?style=for-the-badge&logo=github)](https://github.com/Henrydereck)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@7henrrysilva-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-@7henrrysilva-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7henrysilva_)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_NOME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henry Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrydesilva)
 
 </div>
 
