@@ -7,15 +7,11 @@
 
 ---
 
-## 🧠 O que eu faço
+## O que eu faço
 
-- 💻 Desenvolvimento de Sistemas
-- ☕ Desenvolvimento em C
-- 🐍 Desenvolvimento em Python
-- 🌐 Desenvolvimento Web
-- 🚀 Projetos Pessoais
-- 🔎 Resolução de Problemas
-- 📚 Aprendizado Contínuo
+🎓 Estudante de Informática no IFSP  
+💻 Interessado em Desenvolvimento de Software  
+🚀 Buscando estágio para desenvolver soluções e resolver problemas reais.
 
 ---
 
