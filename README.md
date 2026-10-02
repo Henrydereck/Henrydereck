@@ -15,6 +15,7 @@
 🚀 Buscando estágio para desenvolver soluções e resolver problemas reais.
 
 </div>
+
 ---
 
 ## Connect with me!
