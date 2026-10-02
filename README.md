@@ -6,8 +6,9 @@
 </div>
 
 ---
-<div align= "center">
 ## O que eu faço
+
+<div align= "center">
 
 🎓 Estudante de Informática no IFSP  
 💻 Interessado em Desenvolvimento de Software  
