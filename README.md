@@ -6,13 +6,14 @@
 </div>
 
 ---
-
+<div align= "center">
 ## O que eu faço
 
 🎓 Estudante de Informática no IFSP  
 💻 Interessado em Desenvolvimento de Software  
 🚀 Buscando estágio para desenvolver soluções e resolver problemas reais.
 
+</div>
 ---
 
 ## Connect with me!
